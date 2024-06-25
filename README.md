@@ -54,7 +54,7 @@ A recuperação torna possível a reaquisição do projeto, além de fazer com q
 
 ### Propulsão
 
-Texto sobre propulsão
+Texto sobre propulsão:
 
 <br>
 <br>
